@@ -249,8 +249,8 @@ main {
     cursor: pointer;
 }
 .book-item>img:hover{
-    transform: rotateY(180deg);
-    transform: ranslateZ(50px);
+    transform: rotateY(360deg);
+/*     transform: ranslateZ(50px); */
     transition: 2s ease-in-out;
     z-index: 5;
     
